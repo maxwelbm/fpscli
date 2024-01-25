@@ -7,7 +7,7 @@ faithful of JavidX9's OneLoneCoder/CommandLineFPS from C++ to Go.
 
 To install run the command (Note: requires go lang [installed](https://go.dev/doc/install)
 ```sh
-go install github.com/maxwelbm/fpscli@latest
+go install github.com/maxwelbm/fpscli
 ```
 
 References: 
