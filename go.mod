@@ -1,4 +1,4 @@
-module cscli
+module fpscli
 
 go 1.17
 
